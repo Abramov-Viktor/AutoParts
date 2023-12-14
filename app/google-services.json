@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036173639244",
+    "project_id": "autoparts-e6ba0",
+    "storage_bucket": "autoparts-e6ba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036173639244:android:5f6740c57187f535e7bee9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036173639244-i61i2c2b16bujolf7jc0h4po3b1i2t0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJzycm3JYRi65iLhAVz_P-IOasG1kbgbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036173639244-i61i2c2b16bujolf7jc0h4po3b1i2t0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

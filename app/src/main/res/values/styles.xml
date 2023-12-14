@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SpinnerStyle">
+        <!-- Цвет фона -->
+        <item name="android:background">#31313A</item>
+        <!-- Цвет текста -->
+        <item name="android:textColor">#CCCCCC</item>
+
+    </style>
+
+</resources>
