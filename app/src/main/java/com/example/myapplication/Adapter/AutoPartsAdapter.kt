@@ -10,7 +10,7 @@ import com.bumptech.glide.Glide
 import com.example.myapplication.DataClass.AutoPart
 import com.example.myapplication.R
 class AutoPartsAdapter(private val parts: Array<AutoPart>) : BaseAdapter() {
-
+//переопределенный базовый адаптер
     override fun getView(position: Int, convertView: View?, parent: ViewGroup?): View {
         val view = convertView ?: LayoutInflater.from(parent?.context).inflate(R.layout.auto_part_item, parent, false)
         val part = getItem(position)
